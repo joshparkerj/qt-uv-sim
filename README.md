@@ -17,4 +17,3 @@ Step By Step Qt VS Tools
 9. Click Next, then Next again, then Finish.
 10. In the project directory, replace UVSim.ui with the UVSim.ui I provided.
 
-(Note to self: leave here for west jordan at 2:00)
